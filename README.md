@@ -1,5 +1,7 @@
 ### Hey there, I’m Jun. 👋
 
+![Junnplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=junnplus&show_icons=true&theme=tokyonight)
+![Wakatime Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Junnplus&theme=tokyonight&langs_count=5)
 <!--
 **Junnplus/Junnplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junnplus&layout=compact&theme=tokyonight)
 -->
