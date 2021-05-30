@@ -1,9 +1,9 @@
 ### Hey there, I’m Jun. 👋
 
-![Junnplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=junnplus&show_icons=true&theme=vue)
 ![Wakatime Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Junnplus&theme=vue&langs_count=5)
 <!--
 **Junnplus/Junnplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Junnplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=junnplus&show_icons=true&theme=vue)
 
 Here are some ideas to get you started:
 
