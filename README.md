@@ -1,6 +1,6 @@
 ### Hey there, I’m Jun. 👋
 
-![Wakatime Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Junnplus&theme=vue&langs_count=5)
+![Wakatime Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Junnplus&theme=vue&langs_count=5&custom_title=Watatime%20Stats%20Weekly)
 <!--
 **Junnplus/Junnplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Junnplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=junnplus&show_icons=true&theme=vue)
